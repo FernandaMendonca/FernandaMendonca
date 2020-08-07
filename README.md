@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/FernandaMendonca/FernandaMendonca/blob/master/css.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/FernandaMendonca/FernandaMendonca/blob/master/html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src=".https://github.com/FernandaMendonca/FernandaMendonca/blob/master/js.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/FernandaMendonca/FernandaMendonca/blob/master/js.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/FernandaMendonca/FernandaMendonca/blob/master/sass.svg" alt="SASS" width="40" height="40"/>
  </p>
 

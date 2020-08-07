@@ -3,7 +3,7 @@
 <h3  align="center">I'm a brazilian front-end student.</h3>
 
 - 😄 Pronouns: <b>She/Her</b>
-- 🌱 I’m currently <b>learning about front end (HTML, CSS and JS) and a little more.</b>
+- 🌱 I’m currently <b>learning about front end (HTML, CSS and JS) and some other things.</b>
 - 📫 How to reach me: <b>fernandasmendonca@outlook.com</b>
 
 <p align="center">

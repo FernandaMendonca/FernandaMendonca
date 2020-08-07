@@ -1,12 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Fernanda.</h1>
-<hr>
 
 <h3  align="center">I'm a brazilian front-end student.</h3>
 
 - 😄 Pronouns: <b>She/Her</b>
-
 - 🌱 I’m currently <b>learning about front end (HTML, CSS and JS) and a little more.</b>
 - 📫 How to reach me: <b>fernandasmendonca@outlook.com</b>
+
+<p align="center">
+  <img src="../master/css.svg" alt="CSS3" width="40" height="40"/>
+  <img src="../master/html5.svg" alt="HTML5" width="40" height="40"/>
+  <img src="../master/js.svg" alt="JavaScipt" width="40" height="40"/>
+  <img src="../master/sass.svg" alt="SASS" width="40" height="40"/>
+ </p>
 
 
 
@@ -23,7 +28,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 
-<p>
-![myimage-alt-tag](react.svg)
-</p>
+
 -->

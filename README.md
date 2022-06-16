@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/FernandaMendonca/FernandaMendonca/blob/output/github-contribution-grid-snake.svg)
-
 <h1>Hi there 👋, I'm Fernanda.</h1>
 
 <h3>I'm a brazilian front-end developer/student.</h3>
@@ -15,9 +13,8 @@
 
 <section align="center">
   
-  <h3>🖥️ Tools </h3>  
+  <h3>Languages and Tools </h3>  
   <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
@@ -28,5 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" />
   </div>
+ 
+   <h3>Softwares</h3>  
+  <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+ </div>
  </section>
+ 
+ ![Snake animation](https://github.com/FernandaMendonca/FernandaMendonca/blob/output/github-contribution-grid-snake.svg)
 

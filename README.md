@@ -1,32 +1,32 @@
-<h1 align="center">Hi there 👋, I'm Fernanda.</h1>
+![Snake animation](https://github.com/FernandaMendonca/FernandaMendonca/blob/output/github-contribution-grid-snake.svg)
 
-<h3  align="center">I'm a brazilian front-end student.</h3>
+<h1>Hi there 👋, I'm Fernanda.</h1>
 
-- 😄 Pronouns: <b>She/Her</b>
-- 🌱 I’m currently <b>learning about front end (HTML, CSS and JS) and some other things.</b>
-- 📫 How to reach me: <b>fernandasmendonca@outlook.com</b>
+<h3>I'm a brazilian front-end developer/student.</h3>
 
-<p align="center">
-  <img src="https://github.com/FernandaMendonca/FernandaMendonca/blob/master/css.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/FernandaMendonca/FernandaMendonca/blob/master/html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/FernandaMendonca/FernandaMendonca/blob/master/js.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/FernandaMendonca/FernandaMendonca/blob/master/sass.svg" alt="SASS" width="40" height="40"/>
- </p>
+😄 Pronouns: <b>She/Her</b>
 
+🌱 I’m currently learning about<b> front end</b> and some other things related.
 
+ <a href="https://www.linkedin.com/in/fernanda-mendonca/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="30" />
+  </a>
+  <hr>
 
-<!--
-**FernandaMendonca/FernandaMendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section align="center">
+  
+  <h3>🖥️ Tools </h3>  
+  <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" />
+  </div>
+ </section>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
-
-
--->

@@ -31,6 +31,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
  </div>
  </section>
- 
- ![Snake animation](https://github.com/FernandaMendonca/FernandaMendonca/blob/output/github-contribution-grid-snake.svg)
+
 
